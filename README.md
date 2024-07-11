@@ -2,7 +2,7 @@ Hello 👋
 
 My name is BRADLEY, I am Self taught developer!
 
-🗃️ Working on multiple frontend and backend projectS.
+🗃️ Working on multiple FRONTEND and BACKEND projectS.
 🎯 | PHP | Java | Python - Django, Machine Learning & Artifical intelligence | JAVASCRIPT - JQuery, React JS | HTML, CSS - Bootstrap
 
 [![](https://visitcount.itsvg.in/api?id=Reigns-B&icon=6&color=1)](https://visitcount.itsvg.in)
