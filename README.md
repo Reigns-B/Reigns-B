@@ -9,11 +9,11 @@ My name is BRADLEY, I am Self taught developer!
 
 
 # 💫 About Me:
-🔭 I’m currently working on my Digital Agency.<br>
+🔭 I’m currently working on my Digital Agency.(https://www.bradleydigitals.com/) <br>
 👯 I’m looking to collaborate on System Development projects.<br>
 🤝 I’m open to work.<br>
 🌱 I’m all about Digital Transformation.<br>
-💬 Ask me about my Coding Journey.<br>⚡ Fun fact I value my peace of mind more than anything else!
+💬 Ask me about my Coding Journey.<br>⚡ Fun fact Coding gives me peace!
 
 
 ## 🌐 Socials:
