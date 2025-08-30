@@ -9,7 +9,7 @@ My name is BRADLEY, I am Self taught developer!
 
 
 # 💫 About Me:
-🔭 I’m currently working on my Digital Agency.(https://www.bradleydigitals.com/) <br>
+🔭 I’m currently working on my Digital Agency.(https://www.bradleydigitals.co.ke/) <br>
 👯 I’m looking to collaborate on System Development projects.<br>
 🤝 I’m open to work.<br>
 🌱 I’m all about Digital Transformation.<br>
