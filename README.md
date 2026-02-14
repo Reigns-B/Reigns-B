@@ -7,11 +7,7 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://www.bradleydigitals.co.ke/" target="_blank">
-    🌐 bradleydigitals.co.ke
-  </a>
-</p>
+
 
 <p align="center">
   <img 
