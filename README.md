@@ -39,7 +39,7 @@ I specialize in building systems that solve real-world problems and drive **digi
   <a href="https://linkedin.com/in/bradley-ochieng-8352292a5">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tiktok.com/@bradleydigitals](https://www.tiktok.com/@mrbradley__">
+  <a href="(https://www.tiktok.com/@mrbradley__">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" />
   </a>
 </p>
