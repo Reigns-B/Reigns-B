@@ -123,5 +123,5 @@ If you enjoy my projects:
 ---
 
 <p align="center">
-  <strong>Thanks for stopping by! Let's build something amazing together! 💖</strong>
+  <strong>Thanks for stopping by! Let's build something amazing together! 🥳</strong>
 </p>
