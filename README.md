@@ -21,7 +21,7 @@
 💡 A self-taught **Full-Stack Developer** passionate about crafting clean, scalable, and impactful digital solutions.  
 I specialize in building systems that solve real-world problems and drive **digital transformation**.
 
-- 🔭 Founder of **Bradley Digitals** → https://www.bradleydigitals.co.ke/
+- 🔭 Founder of **Bradley Digitals** → https://www.bradleydigitals.com
 - 👯 Open to collaborating on **System & Web Development** projects
 - 🤝 Available for **work & freelance** opportunities
 - 🌱 Constantly learning and evolving in tech
