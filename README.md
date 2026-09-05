@@ -71,7 +71,7 @@ I believe great software isn't about writing more code — it's about building t
   />
 </p>
 
-> **I Create, Strategies, Optimize, Build and Elevate YOUR brand’s digital Success all in one.**
+> **I Create, Strategies, Optimize, Build and Elevate YOUR brand's digital Success all in one.**
 
 ---
 
@@ -132,7 +132,7 @@ I believe great software isn't about writing more code — it's about building t
   />
 </p>
 
-###  Tribute-Project
+### 🕊️ Tribute-Project
 
 A simple tribute webpage developed using **HTML5 and CSS3** as part of an Internet Programming coursework project, demonstrating frontend design and web development fundamentals.
 
@@ -301,7 +301,7 @@ Selected products, experiments and client-focused projects remain private while 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Reigns-B&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=Reigns-B&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
@@ -330,10 +330,6 @@ Selected products, experiments and client-focused projects remain private while 
 
 ---
 
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -345,7 +341,7 @@ Selected products, experiments and client-focused projects remain private while 
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Reigns-B&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph-five-bice.vercel.app/graph?username=Reigns-B&theme=tokyo-night&hide_border=true"
     width="100%"
     alt="Contribution Graph"
   />
@@ -418,6 +414,7 @@ If you enjoy my projects:
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=38BDF8&center=true&vCenter=true&width=750&lines=Thanks+for+stopping+by!;Let's+build+something+amazing+together.;Create.+Strategize.+Optimize.+Build.+Elevate."
   alt="Footer"
 />
+
 
 
 <p align="center">
