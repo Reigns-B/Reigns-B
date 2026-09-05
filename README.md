@@ -132,7 +132,7 @@ I believe great software isn't about writing more code — it's about building t
   />
 </p>
 
-### 🕊️ Tribute-Project
+###  Tribute-Project
 
 A simple tribute webpage developed using **HTML5 and CSS3** as part of an Internet Programming coursework project, demonstrating frontend design and web development fundamentals.
 
